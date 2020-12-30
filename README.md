@@ -10,7 +10,7 @@ Sadly, due to the fact that every thruster in the game seems to react differentl
 
 ### How to use:
 
-The script works in a sort of "command line" manner in the hopes of making it easier to use, and also becuase it seems like reasonable system to use to allow for many selections in a manner that is easy to handle and expand upon in the future. 
+The script works in a sort of "command line" manner in the hopes of making it easier to use, and also becuase it seems like a reasonable system to use to allow for many selections in a manner that is easy to handle and expand upon in the future. 
 
 When opened/ran, you are greeted with a welcome message and another message that lists all the commands and choices for each supported thruster:
 
@@ -31,12 +31,12 @@ You can then enter in the respective number to choose a specific thruster varian
 >) Enter [1] if thruster(s) have no-gravity, or [0] if not.<br>
 >)>
 
-You must enter '1' if the thruster(s) you are going to be using to create this desired effect have "no gravity" or are not affected by gravity. Or, you must enter '0' if the thrusters are affected by gravity. Once you make your choice, then the next section is displayed:
+You must enter '1' if the thruster(s) you are going to be using to create this desired effect have "no gravity" or are not affected by gravity. Or, you must enter '0' if the thrusters are affected by gravity. Once you make your choice, the next section is displayed:
 
 >) Enter total weight load (does not include the lift thruster(s) weight).<br>
 >)> 
 
-Here you must enter the total weight of the object that you are trying to "lift." This total weight must **NOT** include the weight of the thruster(s) and any objects that are not affected by gravity, as to not interfere with the design of the formula and the choices thus far made. Once this is done, the final section is displayed:
+Here you must enter the total weight of the object that you are trying to "lift." This total weight must **NOT** include the weight of the thruster(s) and any objects that are not affected by gravity, as to not interfere with the design of the formula and the choices made thus far. Once this is done, the final section is displayed:
 
 >) Total thrust needed: 
 
